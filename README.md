@@ -15,6 +15,7 @@
     limitations under the License.
  -->
 
+
 # Welcome to the Apache Solr project!
 -----------------------------------
 
